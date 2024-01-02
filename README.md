@@ -53,7 +53,7 @@
   
 ## About The Project 🍪 
 
-![Dashboard](https://github.com/oyinkansolaadetoyinbo/COVID-19-Vaccination-UK/screenshot.png)
+![Dashboard](https://github.com/oyinkansolaadetoyinbo/COVID-19-Vaccination-UK/blob/4401f2dd09bd07ab8bae0b36a00ab8732ef2690b/screenshot.png)
 
 Tracking COVID-19 vaccination data across the UK
 <a name="requirement"/>
